@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Full Stack Developer<br>📚Currently studying at WeThinkCode
+💻Full Stack Engineer<br>📚Currently studying at WeThinkCode
 
 
 ## 🌐 Socials:

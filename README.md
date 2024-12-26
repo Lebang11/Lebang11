@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Full Stack Engineer<br>📚Currently studying at WeThinkCode
+💻Full Stack Engineer<br>Software Engineer intern at MTN
 
 
 ## 🌐 Socials:
